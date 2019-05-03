@@ -1,0 +1,1 @@
+#Project WallpaperCalc  [![Build Status](https://travis-ci.org/ShaidVL/homework_walpaper_calc.svg?branch=master)](https://travis-ci.org/ShaidVL/homework_walpaper_calc)  [![codecov](https://codecov.io/gh/ShaidVL/homework_walpaper_calc/branch/master/graph/badge.svg)](https://codecov.io/gh/ShaidVL/homework_walpaper_calc)
